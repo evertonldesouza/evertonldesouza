@@ -21,7 +21,7 @@
 
 Hi, I'm Everton, but you can call me **Tom**. 
 
-I'm from Brazil 💚, starting in the world of development  , **31 years old**. 
+I'm from São Paulo, Barra Bonita 💚, starting in the world of development  , **31 years old**. 
 
 * 👽 Learning any tecnology that apears on my way.
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
