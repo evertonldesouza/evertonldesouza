@@ -1,8 +1,6 @@
 <p align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coder GIF" width="500"><br>
 <a href="https://github.com/evertonldesouza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/evertonldesouza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/evertonldesouza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.youtube.com/user/evertonldesouza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.instagram.com/evertonldesouza/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p><br>
 
