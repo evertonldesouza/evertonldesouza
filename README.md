@@ -5,7 +5,7 @@ Hello, I'm Everton L. de Souza 💻</br> Welcome to my GitHub 😁</h1>
   <a href="https://facebook.com/evertonldesouza" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/evertonldesouza" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a> 
   <a href = "https://linkedin.com/in/evertonldesouza"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/evertonldesouza" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" target="_blank"></a> 
+  <a href="https://stackoverflow.com/users/256746/everton-l-de-souza" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" target="_blank"></a> 
 </div>
 <div align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=evertonldesouza" alt="evertonldesouza"/>
