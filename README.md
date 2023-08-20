@@ -50,10 +50,7 @@ Hello, I'm Everton L. de Souza 💻</br> Welcome to my GitHub 😁</h1>
 <div align="center">
   <img alt="dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
-<br clear="both">
-<div align="center">
-  <img alt="github contribution grid snake animation" src="https://github.com/evertonldesouza/evertonldesouza/blob/output/github-contribution-grid-snake.svg">
-</div>
+
 
 
 
