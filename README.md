@@ -1,63 +1,129 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></br>
-Hello, I'm Everton L. de Souza 💻</br> Welcome to my GitHub 😁</h1>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="28"/>
+  Olá, eu sou o Everton L. de Souza!
+</h1>
 
-<h2 align="center"> 🌐 Socials: </h2>
-<div align="center">
-  <a href="https://facebook.com/evertonldesouza" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/evertonldesouza" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a> 
-  <a href = "https://linkedin.com/in/evertonldesouza"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://pt.stackoverflow.com/users/256746/everton-l-de-souza" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" target="_blank"></a> 
+<h3 align="center">Software Engineer .NET | Backend & Database Specialist</h3>
 
+<p align="center">
+  Arquiteto de regras de negócio e motores de cálculo em larga escala 🚀<br/>
+  São Paulo, Brasil 🇧🇷
+</p>
 
-</div>
-<div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=evertonldesouza" alt="evertonldesouza"/>
-</div>
-</br>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="400" alt="Coder GIF" />
-</div>
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonldesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonldesouza&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-</div>
-<div align="center">   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />  
-</div>
+---
 
-<br clear="both">
+## 👨‍💻 Sobre mim
+
+Sou Software Engineer com foco no ecossistema **.NET e SQL Server**, atuando no desenvolvimento de sistemas de missão crítica para o agronegócio. Faço parte do time responsável pelo **motor de cálculo e inteligência de dados do ecossistema BIPPER**, que atende players globais como **Corteva Agriscience, BASF e Zoetis**.
+
+Minha trajetória é marcada por resiliência: migrei do trabalho operacional para o desenvolvimento de software por conta própria, o que me deu uma perspectiva única para entender a **dor real do negócio** e construir soluções que realmente funcionam.
+
+- 🏗️ Arquiteto de **motores de cálculo e regras de negócio complexas**
+- 🎯 **SME (Subject Matter Expert)** no ecossistema Bipper — onboarding e mentoria de devs
+- ⚡ Especialista em **Performance Tuning** e otimização de queries T-SQL
+- 🔄 Experiência com **sistemas legados de alta criticidade** e continuidade operacional
+- 📚 Cursando **Tecnologia da Informação** na UNIVESP (2025–2028)
+
+---
+
+## 🌐 Redes Sociais
 
 <div align="center">
-<h2 align="center">✍️ Dev Quote </h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <a href="https://linkedin.com/in/evertonldesouza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://evertonldesouza.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://pt.stackoverflow.com/users/256746/everton-l-de-souza" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+  <a href="https://web.digitalinnovation.one/users/evertonldesouza" target="_blank">
+    <img src="https://img.shields.io/badge/DIO-0267C1?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
 </div>
 
-<br clear="both">
+---
 
+## 🛠️ Stack Principal
 
+**Back-end & Database**
 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server_(T--SQL)-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Cloud & DevOps**
+
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Ferramentas**
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🎯 Áreas de Especialização
+
+```
+🔢  Arquitetura de Motores de Cálculo     →  Engines de apuração em larga escala
+📊  Performance Tuning em SQL Server      →  Otimização de queries críticas
+🏗️  Business Logic & Domain Architecture  →  Modelagem de regras de negócio complexas
+🔗  Integração Full-Cycle .NET + SQL      →  Backend robusto de ponta a ponta
+👥  Mentoria & Liderança Técnica          →  SME, onboarding e revisão de código
+```
+ 
+## 💻 Terminal
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/main/terminal_everton.svg" alt="Terminal animado — Everton L. de Souza" width="740"/>
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg"/>
+    <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=evertonldesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonldesouza&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+---
+
+## ✍️ Frase do Dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=evertonldesouza" alt="Visitantes"/>
+  <br/><br/>
+  <i>"A tecnologia mais poderosa é aquela que resolve o problema do negócio com eficiência."</i>
+</div>

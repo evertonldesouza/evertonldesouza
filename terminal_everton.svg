@@ -1,0 +1,106 @@
+<svg width="740" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 692" style="border-radius:10px;">
+  <rect width="740" height="692" fill="#0d1117" rx="10"/>
+  <!-- barra do terminal -->
+  <rect width="740" height="36" fill="#21262d" rx="10"/>
+  <rect y="20" width="740" height="16" fill="#21262d"/>
+  <circle cx="18" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="38" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="58" cy="18" r="6" fill="#28c840"/>
+  <text x="370" y="23" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">everton@github  ~  zsh</text>
+
+  <text x="20" y="52" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.026;0.033;1" repeatCount="indefinite"/>
+    everton@github ~ $ whoami
+  </text>
+  <text x="20" y="74" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.117;0.124;1" repeatCount="indefinite"/>
+    Everton L. de Souza
+  </text>
+  <text x="20" y="96" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.133;0.140;1" repeatCount="indefinite"/>
+    Software Engineer .NET  |  Backend &amp; Database Specialist
+  </text>
+  <text x="20" y="118" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.149;0.155;1" repeatCount="indefinite"/>
+    Sao Paulo, Brasil  🇧🇷
+  </text>
+  <text x="20" y="162" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.191;0.197;1" repeatCount="indefinite"/>
+    everton@github ~ $ cat stack.json
+  </text>
+  <text x="20" y="184" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.282;0.289;1" repeatCount="indefinite"/>
+    {
+  </text>
+  <text x="20" y="206" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.298;0.304;1" repeatCount="indefinite"/>
+      &quot;backend&quot;  :  [&quot;C#&quot;, &quot;.NET&quot;, &quot;ASP.NET MVC&quot;],
+  </text>
+  <text x="20" y="228" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.313;0.320;1" repeatCount="indefinite"/>
+      &quot;database&quot; :  [&quot;SQL Server (T-SQL)&quot;, &quot;MySQL&quot;, &quot;PostgreSQL&quot;],
+  </text>
+  <text x="20" y="250" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.329;0.336;1" repeatCount="indefinite"/>
+      &quot;frontend&quot; :  [&quot;JavaScript&quot;, &quot;HTML5&quot;, &quot;CSS3&quot;],
+  </text>
+  <text x="20" y="272" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.345;0.351;1" repeatCount="indefinite"/>
+      &quot;cloud&quot;    :  [&quot;Azure&quot;, &quot;Azure DevOps&quot;]
+  </text>
+  <text x="20" y="294" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.360;0.367;1" repeatCount="indefinite"/>
+    }
+  </text>
+  <text x="20" y="338" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.402;0.409;1" repeatCount="indefinite"/>
+    everton@github ~ $ ./experience --summary
+  </text>
+  <text x="20" y="360" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d29922">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.493;0.500;1" repeatCount="indefinite"/>
+    [ UPPER / BIPPER ]  4 anos 10 meses
+  </text>
+  <text x="20" y="382" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.509;0.516;1" repeatCount="indefinite"/>
+      Clientes : Corteva Agriscience, BASF, Zoetis
+  </text>
+  <text x="20" y="404" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.525;0.531;1" repeatCount="indefinite"/>
+      Role     : Software Engineer + SME + Tech Lead
+  </text>
+  <text x="20" y="426" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.540;0.547;1" repeatCount="indefinite"/>
+      Focus    : Motores de calculo | Performance Tuning | Mentoria
+  </text>
+  <text x="20" y="470" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.582;0.589;1" repeatCount="indefinite"/>
+    everton@github ~ $ git log --oneline --mindset
+  </text>
+  <text x="20" y="492" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f8c861">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.674;0.680;1" repeatCount="indefinite"/>
+    a1b2c3d  migrei do trabalho operacional para missao critica
+  </text>
+  <text x="20" y="514" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f8c861">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.689;0.696;1" repeatCount="indefinite"/>
+    e4f5g6h  entender o negocio e tao vital quanto o codigo
+  </text>
+  <text x="20" y="536" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f8c861">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.705;0.711;1" repeatCount="indefinite"/>
+    i7j8k9l  performance nao e opcional quando o dado e critico
+  </text>
+  <text x="20" y="558" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f8c861">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.721;0.727;1" repeatCount="indefinite"/>
+    m0n1o2p  todo sistema legado foi codigo novo um dia
+  </text>
+  <text x="20" y="602" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.762;0.769;1" repeatCount="indefinite"/>
+    everton@github ~ $ echo $STATUS
+  </text>
+  <text x="20" y="624" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
+    <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.854;0.860;1" repeatCount="indefinite"/>
+    open to connect  -&gt;  linkedin.com/in/evertonldesouza
+  </text>
+  <rect x="20" y="632" width="8" height="16" fill="#3fb950" rx="1">
+    <animate attributeName="opacity" values="0;0;1;1;1;0;0" dur="7.660000000000003s" begin="0s" keyTimes="0;0.869;0.876;0.7;0.85;0.92;1" repeatCount="indefinite"/>
+  </rect>
+</svg>
