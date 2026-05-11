@@ -7,14 +7,15 @@
 
 <p align="center">
   Arquiteto de regras de negócio e motores de cálculo em larga escala 🚀<br/>
-  São Paulo, Brasil 🇧🇷
+  Barra Bonita,São Paulo, Brasil 🇧🇷
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou Software Engineer com foco no ecossistema **.NET e SQL Server**, atuando no desenvolvimento de sistemas de missão crítica para o agronegócio. Faço parte do time responsável pelo **motor de cálculo e inteligência de dados do ecossistema BIPPER**, que atende players globais como **Corteva Agriscience, BASF e Zoetis**.
+Faço parte do time responsável pelo **motor de cálculo e inteligência de dados** de uma plataforma corporativa que
+atende **multinacionais do agronegócio (Fortune 500)**, com foco em **campanhas de incentivo de grande escala**.
 
 Minha trajetória é marcada por resiliência: migrei do trabalho operacional para o desenvolvimento de software por conta própria, o que me deu uma perspectiva única para entender a **dor real do negócio** e construir soluções que realmente funcionam.
 
@@ -101,15 +102,6 @@ Minha trajetória é marcada por resiliência: migrei do trabalho operacional pa
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg"/>
     <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg"/>
   </picture>
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=evertonldesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonldesouza&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ---
