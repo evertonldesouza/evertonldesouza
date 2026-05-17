@@ -7,7 +7,7 @@
 
 <p align="center">
   Arquiteto de regras de negócio e motores de cálculo em larga escala 🚀<br/>
-  Barra Bonita,São Paulo, Brasil 🇧🇷
+  São Paulo, Brasil 🇧🇷 (Remoto)
 </p>
 
 ---
@@ -20,7 +20,7 @@ atende **multinacionais do agronegócio (Fortune 500)**, com foco em **campanhas
 Minha trajetória é marcada por resiliência: migrei do trabalho operacional para o desenvolvimento de software por conta própria, o que me deu uma perspectiva única para entender a **dor real do negócio** e construir soluções que realmente funcionam.
 
 - 🏗️ Arquiteto de **motores de cálculo e regras de negócio complexas**
-- 🎯 **SME (Subject Matter Expert)** no ecossistema Bipper — onboarding e mentoria de devs
+- 🎯 **SME (Subject Matter Expert)** em plataforma corporativa de incentivos — onboarding e mentoria de devs
 - ⚡ Especialista em **Performance Tuning** e otimização de queries T-SQL
 - 🔄 Experiência com **sistemas legados de alta criticidade** e continuidade operacional
 - 📚 Cursando **Tecnologia da Informação** na UNIVESP (2025–2028)
