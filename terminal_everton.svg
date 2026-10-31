@@ -18,7 +18,7 @@
   </text>
   <text x="20" y="96" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.133;0.140;1" repeatCount="indefinite"/>
-    Software Engineer .NET  |  Backend &amp; Database Specialist
+    .NET Backend  |  SQL Server  |  Regras de negocio
   </text>
   <text x="20" y="118" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.149;0.155;1" repeatCount="indefinite"/>
@@ -26,31 +26,31 @@
   </text>
   <text x="20" y="162" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.191;0.197;1" repeatCount="indefinite"/>
-    everton@github ~ $ cat stack.json
+    everton@github ~ $ cat focus.txt
   </text>
   <text x="20" y="184" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.282;0.289;1" repeatCount="indefinite"/>
-    {
+    Atuacao: UPPER / ecossistema BIPPER
   </text>
   <text x="20" y="206" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.298;0.304;1" repeatCount="indefinite"/>
-      &quot;backend&quot;  :  [&quot;C#&quot;, &quot;.NET&quot;, &quot;ASP.NET MVC&quot;],
+    Backend: C#, .NET e ASP.NET MVC
   </text>
   <text x="20" y="228" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.313;0.320;1" repeatCount="indefinite"/>
-      &quot;database&quot; :  [&quot;SQL Server (T-SQL)&quot;, &quot;MySQL&quot;, &quot;PostgreSQL&quot;],
+    Dados: SQL Server, T-SQL e performance
   </text>
   <text x="20" y="250" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.329;0.336;1" repeatCount="indefinite"/>
-      &quot;frontend&quot; :  [&quot;JavaScript&quot;, &quot;HTML5&quot;, &quot;CSS3&quot;],
+    Dominio: campanhas de incentivo no agronegocio
   </text>
   <text x="20" y="272" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.345;0.351;1" repeatCount="indefinite"/>
-      &quot;cloud&quot;    :  [&quot;Azure&quot;, &quot;Azure DevOps&quot;]
+    Pessoas: onboarding tecnico e apoio ao time
   </text>
   <text x="20" y="294" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b949e">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.360;0.367;1" repeatCount="indefinite"/>
-    }
+    Interesse: arquitetura e sistemas escalaveis
   </text>
   <text x="20" y="338" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.402;0.409;1" repeatCount="indefinite"/>
@@ -58,7 +58,7 @@
   </text>
   <text x="20" y="360" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d29922">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.493;0.500;1" repeatCount="indefinite"/>
-    [ UPPER / BIPPER ]  4 anos 10 meses
+    [ UPPER / BIPPER ]  5 anos 2 meses
   </text>
   <text x="20" y="382" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.509;0.516;1" repeatCount="indefinite"/>
@@ -66,11 +66,11 @@
   </text>
   <text x="20" y="404" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.525;0.531;1" repeatCount="indefinite"/>
-      Role     : Software Engineer + SME + Tech Lead
+      Atuacao  : Software Developer + SME
   </text>
   <text x="20" y="426" font-family="'Courier New', Courier, monospace" font-size="13" fill="#a5d6ff">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.540;0.547;1" repeatCount="indefinite"/>
-      Focus    : Motores de calculo | Performance Tuning | Mentoria
+      Foco     : Motores de calculo | SQL | Onboarding
   </text>
   <text x="20" y="470" font-family="'Courier New', Courier, monospace" font-size="13" fill="#3fb950">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.582;0.589;1" repeatCount="indefinite"/>
@@ -78,7 +78,7 @@
   </text>
   <text x="20" y="492" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f8c861">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.674;0.680;1" repeatCount="indefinite"/>
-    a1b2c3d  migrei do trabalho operacional para missao critica
+    a1b2c3d  do suporte tecnico ao desenvolvimento
   </text>
   <text x="20" y="514" font-family="'Courier New', Courier, monospace" font-size="13" fill="#f8c861">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.689;0.696;1" repeatCount="indefinite"/>
@@ -101,6 +101,6 @@
     open to connect  -&gt;  linkedin.com/in/evertonldesouza
   </text>
   <rect x="20" y="632" width="8" height="16" fill="#3fb950" rx="1">
-    <animate attributeName="opacity" values="0;0;1;1;1;0;0" dur="7.660000000000003s" begin="0s" keyTimes="0;0.869;0.876;0.7;0.85;0.92;1" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" dur="7.660000000000003s" begin="0s" keyTimes="0;0.869;0.876;0.92;0.96;1" repeatCount="indefinite"/>
   </rect>
 </svg>
