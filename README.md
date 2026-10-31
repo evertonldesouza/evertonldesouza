@@ -3,31 +3,30 @@
   Olá, eu sou o Everton L. de Souza!
 </h1>
 
-<h3 align="center">Software Engineer .NET | Backend & Database Specialist</h3>
+<h3 align="center">.NET Backend | SQL Server & Business Rules | Agronegócio</h3>
 
 <p align="center">
-  Arquiteto de regras de negócio e motores de cálculo em larga escala 🚀<br/>
-  São Paulo, Brasil 🇧🇷 (Remoto)
+  Tecnologia para resolver problemas reais de negócio 🚀<br/>
+  São Paulo, Brasil 🇧🇷
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Faço parte do time responsável pelo **motor de cálculo e inteligência de dados** de uma plataforma corporativa que
-atende **multinacionais do agronegócio (Fortune 500)**, com foco em **campanhas de incentivo de grande escala**.
+Sou desenvolvedor .NET na **UPPER**, onde atuo nos motores de cálculo do ecossistema **BIPPER**, voltado a campanhas de incentivo no agronegócio. Meu trabalho combina regras de negócio, C# e SQL Server para apoiar sistemas de missão crítica.
 
-Minha trajetória é marcada por resiliência: migrei do trabalho operacional para o desenvolvimento de software por conta própria, o que me deu uma perspectiva única para entender a **dor real do negócio** e construir soluções que realmente funcionam.
+Comecei minha trajetória na UPPER em suporte técnico e, em 2022, migrei para desenvolvimento. Essa experiência me ajuda a entender o sistema pela perspectiva de quem o utiliza e a conectar soluções técnicas às necessidades do negócio.
 
-- 🏗️ Arquiteto de **motores de cálculo e regras de negócio complexas**
-- 🎯 **SME (Subject Matter Expert)** em plataforma corporativa de incentivos — onboarding e mentoria de devs
-- ⚡ Especialista em **Performance Tuning** e otimização de queries T-SQL
-- 🔄 Experiência com **sistemas legados de alta criticidade** e continuidade operacional
-- 📚 Cursando **Tecnologia da Informação** na UNIVESP (2025–2028)
+- 🏗️ Projeto e otimizo motores de cálculo e regras de negócio em T-SQL.
+- ⚡ Refatoro sistemas legados e otimizo consultas para apoiar a continuidade operacional.
+- 🤝 Atuo como **SME**, apoiando o onboarding técnico de desenvolvedores e decisões sobre o produto.
+- 🌱 Busco aprofundar meus conhecimentos em arquitetura de software, Clean Architecture e microsserviços.
+- 📚 Curso Tecnologia da Informação na UNIVESP (2025–2028).
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Onde me encontrar
 
 <div align="center">
   <a href="https://linkedin.com/in/evertonldesouza" target="_blank">
@@ -43,6 +42,15 @@ Minha trajetória é marcada por resiliência: migrei do trabalho operacional pa
     <img src="https://img.shields.io/badge/DIO-0267C1?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </div>
+
+---
+
+## 🚀 Projetos em destaque
+
+- [JobRadar](https://github.com/evertonldesouza/JobRadar) — agregador de vagas com API REST, autenticação JWT e Google OAuth.
+- [AgroData Engine](https://github.com/evertonldesouza/AgroData_Engine) — dados de commodities agrícolas para apoio à decisão.
+- [Hub de Grupos de Estudo](https://github.com/evertonldesouza/hub-grupos-estudo) — plataforma de troca de conhecimento com .NET, PostgreSQL e Clean Architecture.
+- [TrendBot](https://github.com/evertonldesouza/TrendBot) — análise preditiva de dados para o mercado de criptoativos.
 
 ---
 
@@ -76,23 +84,19 @@ Minha trajetória é marcada por resiliência: migrei do trabalho operacional pa
 
 ---
 
-## 🎯 Áreas de Especialização
-
-```
-🔢  Arquitetura de Motores de Cálculo     →  Engines de apuração em larga escala
-📊  Performance Tuning em SQL Server      →  Otimização de queries críticas
-🏗️  Business Logic & Domain Architecture  →  Modelagem de regras de negócio complexas
-🔗  Integração Full-Cycle .NET + SQL      →  Backend robusto de ponta a ponta
-👥  Mentoria & Liderança Técnica          →  SME, onboarding e revisão de código
-```
- 
 ## 💻 Terminal
- 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/main/terminal_everton.svg" alt="Terminal animado — Everton L. de Souza" width="740"/>
+  <img src="terminal_everton.svg" alt="Terminal: Everton L. de Souza, desenvolvedor .NET na UPPER, com foco em motores de cálculo, SQL Server e onboarding técnico." width="740"/>
 </div>
 
+**Em texto:** desenvolvedor .NET e SME na UPPER, com experiência em motores de cálculo, otimização SQL e onboarding técnico. Na empresa desde agosto de 2021.
+
 ---
+
+<!-- O tempo na UPPER exibido no terminal é calculado desde agosto de 2021.
+     Para mudar a data, edite scripts/update_experience.py; se o vínculo terminar,
+     desative o workflow .github/workflows/update-experience.yml e atualize o SVG. -->
 
 ## 🐍 Contribuições
 
@@ -106,16 +110,6 @@ Minha trajetória é marcada por resiliência: migrei do trabalho operacional pa
 
 ---
 
-## ✍️ Frase do Dia
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=evertonldesouza" alt="Visitantes"/>
-  <br/><br/>
   <i>"A tecnologia mais poderosa é aquela que resolve o problema do negócio com eficiência."</i>
 </div>

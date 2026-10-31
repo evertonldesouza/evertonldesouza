@@ -1,0 +1,39 @@
+name: Update experience duration
+
+on:
+  schedule:
+    # Monthly, after midnight on the first day in São Paulo.
+    - cron: '0 4 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-experience
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test and update tenure
+        run: |
+          python -m unittest discover -s tests
+          python scripts/update_experience.py
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- terminal_everton.svg; then
+            echo 'No update needed.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add terminal_everton.svg
+          git commit -m 'Update experience duration'
+          git push origin HEAD:main
