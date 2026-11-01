@@ -58,7 +58,7 @@
   </text>
   <text x="20" y="360" font-family="'Courier New', Courier, monospace" font-size="13" fill="#d29922">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.493;0.500;1" repeatCount="indefinite"/>
-    [ UPPER / BIPPER ]  5 anos 2 meses
+    [ UPPER / BIPPER ]  5 anos 3 meses
   </text>
   <text x="20" y="382" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e6edf3">
     <animate attributeName="opacity" values="0;0;1;1" dur="7.660000000000003s" begin="0s" keyTimes="0;0.509;0.516;1" repeatCount="indefinite"/>
