@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Everton L. de Souza — Desenvolvedor Backend .NET</title>
+  <desc id="desc">Cabeçalho inspirado em um editor de código, com foco em .NET, SQL Server e regras de negócio.</desc>
+  <rect width="1200" height="280" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="278" rx="15" fill="none" stroke="#303b4b" stroke-width="2"/>
+  <path d="M16 0h1168a16 16 0 0 1 16 16v32H0V16A16 16 0 0 1 16 0" fill="#161e2a"/>
+  <circle cx="27" cy="24" r="6" fill="#f07178"/><circle cx="48" cy="24" r="6" fill="#e6b85c"/><circle cx="69" cy="24" r="6" fill="#74c991"/>
+  <text x="104" y="30" fill="#92a4b8" font-family="Consolas, monospace" font-size="15">everton.dev / perfil.md</text>
+  <path d="M58 78v168" stroke="#26364a" stroke-width="2"/>
+  <text x="90" y="100" fill="#58a6ff" font-family="Consolas, monospace" font-size="17">// olá, mundo 👋</text>
+  <text x="90" y="150" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="40" font-weight="700">Everton L. de Souza</text>
+  <text x="90" y="187" fill="#80bfff" font-family="Consolas, monospace" font-size="21">Backend .NET · SQL Server · Agronegócio</text>
+  <text x="90" y="224" fill="#aab8c8" font-family="Arial, sans-serif" font-size="18">Código, dados e regras de negócio para sistemas críticos.</text>
+  <path d="M1040 105l-38 38 38 38m48-76l38 38-38 38m-16-95l-20 115" fill="none" stroke="#58a6ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+</svg>

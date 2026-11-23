@@ -1,115 +1,108 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="28"/>
-  Olá, eu sou o Everton L. de Souza!
-</h1>
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Everton L. de Souza — Backend .NET, SQL Server e agronegócio. Código, dados e regras de negócio para sistemas críticos." width="100%" />
+</p>
 
-<h3 align="center">.NET Backend | SQL Server & Business Rules | Agronegócio</h3>
+<h1 align="center">Olá, eu sou o Everton 👋</h1>
 
 <p align="center">
-  Tecnologia para resolver problemas reais de negócio 🚀<br/>
-  São Paulo, Brasil 🇧🇷
+  <strong>Desenvolvedor Backend .NET</strong> · C# · SQL Server · Regras de negócio
+</p>
+
+<p align="center">
+  <a href="https://evertonldesouza.pages.dev/"><img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58a6ff" alt="Acessar portfólio" /></a>
+  <a href="https://www.linkedin.com/in/evertonldesouza/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=58a6ff" alt="Conectar no LinkedIn" /></a>
+  <a href="mailto:evertonldesouza@proton.me"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&amp;logo=protonmail&amp;logoColor=58a6ff" alt="Enviar e-mail" /></a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## `01` &nbsp; Do suporte ao core
 
-Sou desenvolvedor .NET na **UPPER**, onde atuo nos motores de cálculo do ecossistema **BIPPER**, voltado a campanhas de incentivo no agronegócio. Meu trabalho combina regras de negócio, C# e SQL Server para apoiar sistemas de missão crítica.
+Comecei em suporte técnico e migrei para desenvolvimento em 2022. Conhecer os desafios de quem usa o sistema me ajuda a conectar decisões técnicas às necessidades do negócio.
 
-Comecei minha trajetória na UPPER em suporte técnico e, em 2022, migrei para desenvolvimento. Essa experiência me ajuda a entender o sistema pela perspectiva de quem o utiliza e a conectar soluções técnicas às necessidades do negócio.
+Hoje atuo na **UPPER**, no ecossistema **BIPPER**, desenvolvendo e otimizando motores de cálculo para campanhas de incentivo no agronegócio. Trabalho com **C#, ASP.NET MVC e SQL Server**, com atenção à integridade dos dados e à continuidade de sistemas críticos.
 
-- 🏗️ Projeto e otimizo motores de cálculo e regras de negócio em T-SQL.
-- ⚡ Refatoro sistemas legados e otimizo consultas para apoiar a continuidade operacional.
-- 🤝 Atuo como **SME**, apoiando o onboarding técnico de desenvolvedores e decisões sobre o produto.
-- 🌱 Busco aprofundar meus conhecimentos em arquitetura de software, Clean Architecture e microsserviços.
-- 📚 Curso Tecnologia da Informação na UNIVESP (2025–2028).
+- **Regras e dados** · Modelagem de regras de negócio, T-SQL, stored procedures e otimização de consultas.
+- **Sistemas que evoluem** · Refatoração de código legado, APIs e práticas de Clean Architecture e SOLID.
+- **Pessoas e domínio** · Atuação como SME, apoiando decisões técnicas e o onboarding de desenvolvedores.
+- **Formação** · Bacharelado em Tecnologia da Informação na UNIVESP, em andamento (2025–2028).
 
----
+> Entender o problema de negócio é tão importante quanto escrever o código.
 
-## 🌐 Onde me encontrar
+## `02` &nbsp; Projetos em destaque
 
-<div align="center">
-  <a href="https://linkedin.com/in/evertonldesouza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://evertonldesouza.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://pt.stackoverflow.com/users/256746/everton-l-de-souza" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  <a href="https://web.digitalinnovation.one/users/evertonldesouza" target="_blank">
-    <img src="https://img.shields.io/badge/DIO-0267C1?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a>
-</div>
+Projetos que exploram arquitetura, dados e soluções para problemas reais. Mais detalhes e demonstrações no [portfólio](https://evertonldesouza.pages.dev/#projects).
 
----
+### 🌾 [AgroData Engine](https://github.com/evertonldesouza/AgroData_Engine)
+Inteligência de dados para o agronegócio: coleta e processamento de preços de commodities, API e dashboard para apoiar decisões.
 
-## 🚀 Projetos em destaque
+`C#` `Python` `PostgreSQL` `Docker` · [Ver projeto](https://github.com/evertonldesouza/AgroData_Engine) · [Demo](https://evertonldesouza.github.io/AgroData_Engine/)
 
-- [JobRadar](https://github.com/evertonldesouza/JobRadar) — agregador de vagas com API REST, autenticação JWT e Google OAuth.
-- [AgroData Engine](https://github.com/evertonldesouza/AgroData_Engine) — dados de commodities agrícolas para apoio à decisão.
-- [Hub de Grupos de Estudo](https://github.com/evertonldesouza/hub-grupos-estudo) — plataforma de troca de conhecimento com .NET, PostgreSQL e Clean Architecture.
-- [TrendBot](https://github.com/evertonldesouza/TrendBot) — análise preditiva de dados para o mercado de criptoativos.
+### 🔎 [JobRadar](https://github.com/evertonldesouza/JobRadar)
+Agregador de vagas de tecnologia com API REST, autenticação JWT e login com Google.
 
----
+`C#` `.NET` `PostgreSQL` `JWT` · [Ver projeto](https://github.com/evertonldesouza/JobRadar) · [Demo](https://evertonldesouza.github.io/JobRadar/)
 
-## 🛠️ Stack Principal
+### 📚 [Hub de Grupos de Estudo](https://github.com/evertonldesouza/hub-grupos-estudo)
+Comunidade de aprendizagem para criar trilhas, acompanhar o progresso e trocar conhecimento.
 
-**Back-end & Database**
+`C#` `.NET` `Clean Architecture` `PostgreSQL` · [Ver projeto](https://github.com/evertonldesouza/hub-grupos-estudo)
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server_(T--SQL)-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📈 [TrendBot](https://github.com/evertonldesouza/TrendBot)
+Projeto em Python para análise quantitativa, risco e dados do mercado de criptoativos.
 
-**Front-end**
+`Python` `Análise de dados` · [Ver projeto](https://github.com/evertonldesouza/TrendBot)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+## `03` &nbsp; Tecnologias e práticas
 
-**Cloud & DevOps**
+**Backend e dados**<br />
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Ferramentas e interfaces**<br />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Ferramentas**
+`ASP.NET MVC` · `T-SQL` · `Clean Architecture` · `SOLID` · `CQRS` · `Code review`
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## `04` &nbsp; Um pouco mais sobre mim
 
----
+<details>
+<summary>💻 Abrir o terminal</summary>
+<br />
+<p align="center">
+  <img src="terminal_everton.svg" alt="Terminal de Everton: desenvolvedor .NET e SME na UPPER, com foco em motores de cálculo, SQL Server e onboarding técnico." width="740" />
+</p>
 
-## 💻 Terminal
-
-<div align="center">
-  <img src="terminal_everton.svg" alt="Terminal: Everton L. de Souza, desenvolvedor .NET na UPPER, com foco em motores de cálculo, SQL Server e onboarding técnico." width="740"/>
-</div>
-
-**Em texto:** desenvolvedor .NET e SME na UPPER, com experiência em motores de cálculo, otimização SQL e onboarding técnico. Na empresa desde agosto de 2021.
-
----
+Desenvolvedor .NET e SME na UPPER, com experiência em motores de cálculo, otimização SQL e onboarding técnico. Na empresa desde agosto de 2021.
+</details>
 
 <!-- O tempo na UPPER exibido no terminal é calculado desde agosto de 2021.
      Para mudar a data, edite scripts/update_experience.py; se o vínculo terminar,
      desative o workflow .github/workflows/update-experience.yml e atualize o SVG. -->
 
-## 🐍 Contribuições
-
-<div align="center">
+<details>
+<summary>🐍 Ver animação de contribuições</summary>
+<br />
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg"/>
-    <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/evertonldesouza/evertonldesouza/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</p>
+</details>
 
 ---
 
-<div align="center">
-  <i>"A tecnologia mais poderosa é aquela que resolve o problema do negócio com eficiência."</i>
-</div>
+<p align="center">
+  <strong>Vamos conversar?</strong><br />
+  <a href="https://evertonldesouza.pages.dev/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/evertonldesouza/">LinkedIn</a> ·
+  <a href="mailto:evertonldesouza@proton.me">E-mail</a>
+</p>
